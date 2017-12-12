@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "proyectofinalpg4",
+  "private_key_id": "20b2ec4f353a12edb2b32ca9753f10adb3ac9564",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDGUSG5ObTfyWDe\nWjdvBlPGRMb4IFpizuZIvYwutaaA7wy+eVdPXHioStKFNrlL29CMSwWR2tApMv1C\nS7AuOZUyXNpHHGPvcQ55YmEkSF9GmwJ5abJVUJW5xps7x2Lux751iilADD4b7gIK\nog+OazB/Yaqfgbb9tm0wfsKAcPF+933lnzABqOwUx8vaWuHjgLFdIQnLJ9YsLy1H\nlshr95KzZ+BMGUzHybAQdATtFANjoCkHa8/yrP4FOaN/1Dw9TwJOFF7V6+JVyDsq\n8oHezi6pB51dMbkum1M94QgRZmU24UbRzFjlZyHMfAFD8kiKq/StNAHaSog/M/IP\nXWySToUzAgMBAAECggEALw7LYMdXqw5+5OQlaTvoHxDs4a3TpMSRkksf+2lxJAEV\nVhE27Yb0voJap++PUnfLaa7XmH+Ci3Qk8llBagaR54xu4xbSg9ug4p68jD58FSXt\nFWBGR8ZCcP22kh3C1QQipoNtPFxrVHdKlrlT1aiLrn4/XXALOvLRwAMkJhQmyciH\nEFXDVE8T6fOTnpfx90ZNZGzA7zNyTltkd/nHXruIVEdalgIgLzG0WSIDgX74q+S5\nC7FtNzBP0NsoLxVHZGxH6lLKuXNWxBzOYzQ6lRDCAaKdfJdAZL9pBc4P3b+UhpYM\nhS9KWqXiaB+pzFie/t2iZkHRgX9dN6rdr3QaojBNiQKBgQD1IYRKcpX75OUrmWNH\nPKCsERc6/+laFn4C2ErG6jP2g/rwr4T/3cnw6Aut6rRPSwWCUOx8bIeUgAEThQZ4\n39w0O0H9Ky4DJCkDysPyqV82/UGgYuqF81Qqg0G8m2K9g5kw1vIt6mC3OJt3iq4y\nS96Bte540pvtUT/AY3mqbsLu5wKBgQDPHDqTNwdYaEJopHhxVCY4UTBBzEZgy0XB\nGuRwH3RxiRDuqtcRJuCPDwRr9Pt/LFGtJIV31DdwHm7SBWoDJMJC5OXSgn27g2l5\n6jBXP+oE+3SdXPjO+mvKbmsdok5a3p3RaXaY2UYsL8mGg3HlGS00NvWZka9RWBD6\n7h6f+bdp1QKBgF+O7U9IVAeaN2xDo1wF2my5TOEHGiSwV/cr8hqQ+ijDUnO5OJO2\nFh7/lm357Mhsan1eppHqjP/q1oCRfvBn9CO4ZgUXbBx1YDfGN5TFSgTZvVeUt+/3\n53ubJ2kq+db/Ehzj7gzQLVu/iXuUaEvbH6ZZEdmv4HEnFz8ciDVUcFFJAoGAd+eJ\n6ezz7bT+rYJ60HG9ZuFqJM3U+Pj2O2QMWPV8/rYx/VsfBCkT3P7+ulmsuOW5q5n3\nQ3azWc/krObBh2xio0PN4l/11vevuwtgTUMNgzDpRKmsynekrB/dF9z9rBIyICkE\npl00CSTpcVzsNYyr5Qzkh7IWY+uuePge9tMl4rkCgYAQuBbC7pdySEhtvPLVIVVO\nj+CzHlkPfg2d0KT8eCGge8AFyVgTUYX6xx5gANgd5WMXGNAplHprJBuLcBucbjxy\nBdq+MV0vAeHobLyy80P/rF7h7kqm1LXv6PGsMsst+OiqXmecVF4FX1WzyuhLQ/kd\nzi7IJf2aSUKL8si32NhYrg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "adriancampos13-gmail-com@proyectofinalpg4.iam.gserviceaccount.com",
+  "client_id": "105068011771233252234",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/adriancampos13-gmail-com%40proyectofinalpg4.iam.gserviceaccount.com"
+}
